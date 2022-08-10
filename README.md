@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **cooking, ⚡ Harry Potter and JavaScript!**
 
-- 📫 You can reach me in -> **analauraalves25@gmail.com**
+- 📫 You can reach me in **analauraalves25@gmail.com** or **+55 31 9 7522-9268**
 
 - 🗣️ My pronouns are **she/her** 
 
