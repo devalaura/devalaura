@@ -13,7 +13,7 @@
 
 - 🗣️ My pronouns are **she/her** 
 
-- 👩‍💻 Fun fact about me: **🤖 I did my first website in 2 weeks, using HTML/CSS. But I didn't know anything of web development or had use a code editor in my life.**
+- 👩‍💻 Fun fact about me: **🤖 I did my first website in 2 weeks, using HTML/CSS. But I didn't know anything about web development or had use a code editor in my life.**
 
 
 <h3 align="center">Connect with me:</h3>
